@@ -6,4 +6,6 @@
 - Exécution : Faire tourner le programme pour 100 vélos et 5 stations (paramètres fournis).
 
 **Auteurs** 
-Salomé Bellais et Sarah Daher
+
+- Salomé Bellais
+- Sarah Daher
